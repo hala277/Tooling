@@ -61,7 +61,9 @@
 *The data type for all of object will be converted to string so we can store them in our local storage and then we will use them to add to favorite lost.*
 
 + Activity Diagram:
-![Activity Diagram](/img/ActivityDiagram1.jpeg)
+![Activity Diagram](/img/ActivityDiagram2.jpeg)
+
+*The user can first start from home page and go to movies/series/about us pages and from movies/series he can go to show page and he can come back from there to the home page or to movies/series ,but in the about us page he can just go from this page to home page .*
 
 + Coding and implementation technique:
 
