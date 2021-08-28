@@ -6,19 +6,19 @@
  
 ## How we solved the problem and what we add:
  
-1. *The client asks for the main page that contains two slide shows one for the movies and the other for the series and to be above each other in the main section in the middle and have two buttons to switch to the move page or the series page.* 
+1. *The client wants the website to have a main page with a slide show for the movies and series trailers that are accessible on the site, as well as three buttons that switch to the movies page or series movies page, or a logo and slide show in the header with a slide show of movie photos.* 
 
-2. *The client also asks to add a slide show at the top of the movies, series page, and in the main section ask to add the moves or the series in a line contain four moves or series in each.*
+2. *The client wants a slide show at the top of the movies and series pages that presents the top shows on each page, and all shows to be displayed on the page four times in each line.*
 
-3. *The client asks to add an animation to the moves or series pic so when the user puts the mouse on it, it will flip the pic and show the rating and info about the show.*
+3. *As hovering over a show in the movies or on the series page, the customer wants an animation that flips the picture, and when the animation happens, some of the show information, such as a rating, appears.*
 
-4. *The client asks to add another page when clicking on the show, that page must contain the move or series pic on the top, left side, and on the right add the pic information about the movie or the series like the story or the rating, duration of the show and so, under these, the client wants to add the trailer.*
+4. *When you click on the show, another page should open, with the show photo on the left side of the page and information about the show on the right side of the picture, such as the release date, rating, duration, and kind of show, and so on... The client wants to include the program's trailer under the image and information, as well as a brief description of the show under the trailer video.*
 
-5. *the client wants to add the connection links at the bottom of the page so when the user clicks on them it will move them to the social media page also he asks to add the logo there so on each page e have a logo in the header and the bottom.*
+5. *The client wants the social media accounts to have a logo on all pages, and when you click on it, you should be led to the social media sites, and each page should have the website's logo with links to return to the main page, movies, or series page.*
 
-6. *the most important thing to solve the main problem that adds a list so the user can add his favorite show there, the list will be showing under the show so if the user wants to add anything he should click on the button that is found beside the move or the series page.*
+6. *The customer wants to add a cart button to the movies and series pages, and when you click on the cart logo, the list should display. To add a show to your list, click the button that appears next to the movie in the list.*
 
-7. *clint want to add shopping card so the user can add his movies or series and buy them. and creat form to add user information so when he buy the movies he will need to fill the form.*
+7. *The customer wishes to add a shopping cart system with the option to remove items from the cart, and after filling out the form with information such as name, email, and phone number, a thanks notice will display.*
 
 ## 1.2
 ## Risk:
@@ -40,11 +40,11 @@
 
 ### wireframe
 
-![main img](/img/mainPage.jpeg)
-![every show img](/img/everyShowPage1.jpeg)
-![show page img](/img/showPage.jpeg)
-![show img](/img/aboutUsPage.jpeg)
-![cartPage](/img/cartPage.jpeg)
+![main img](/img/home_Page_1.jpeg)
+![every show img](/img/every_show_page_1.jpeg)
+![show page img](/img/show_info_1.jpeg)
+![show img](/img/about_us_page_1.jpeg)
+![cartPage](/img/cartPage_1.jpeg)
 
 ------------------------------
 
