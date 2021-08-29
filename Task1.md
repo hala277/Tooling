@@ -2,7 +2,7 @@
 ## 1.1
 
 ## The problem:
-*user find it hard to not have a favorite list and a website that doesn't have ads when he enters to see a movie or a series so the client asks us to make a website that didn’t have ads and have a fav list so can the user watch his fav shows and add them to his list without any problem.*
+*user ask for website for showing list of new movies and series*
  
 ## How we solved the problem and what we add:
  
